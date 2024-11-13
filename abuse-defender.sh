@@ -10,7 +10,7 @@ fi
 function main_menu {
     clear
     echo "----------- Abuse Defender -----------"
-    echo "https://github.com/Kiya6955/Abuse-Defender"
+    echo "https://github.com/Salarsdg/Abuse-Defender"
     echo "--------------------------------------"
     echo "Choose an option:"
     echo "1-Block Abuse IP-Ranges"
